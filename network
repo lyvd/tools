@@ -2,3 +2,4 @@
 https://packettotal.com
 # a reverse TCP tunnel let you access target behind NAT or firewall
 https://github.com/aploium/shootback
+ hooks into an application’s process and enables us to monitor the network: http://resources.infosecinstitute.com/echo-mirage-walkthrough/
